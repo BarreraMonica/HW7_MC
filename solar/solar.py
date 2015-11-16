@@ -41,5 +41,5 @@ fig[2,2].scatter(c,d)
 fig[2,2].set_ylabel('d')
 fig[2,2].set_xlabel('c')
 
-plt.savefig("Probabilidades_solar.pdf",format="pdf")
+plt.savefig("Probabilidades_solar.png",format="png")
 plt.close()
